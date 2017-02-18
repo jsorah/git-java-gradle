@@ -1,1 +1,1 @@
-FROM frekele/java:jdk8
+FROM openjdk:8-jdk-alpine
